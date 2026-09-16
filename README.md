@@ -1,110 +1,225 @@
-# 🎮 Metal Gear Solid VR Standalone
+# METAL GEAR SOLID VR STANDALONE — v0.1 BETA
 
-## 🥽 Meta Quest 3 — VR / Mixed Reality
+## 🥽 METAL GEAR SOLID IN VR & MIXED REALITY
 
-Versión beta independiente de Metal Gear Solid VR Standalone, creada por un fan para Meta Quest 3.
+Metal Gear Solid VR Standalone is a free fan-made project that brings the classic Metal Gear Solid experience to Meta Quest 3, running completely standalone.
 
-Este proyecto permite disfrutar de Metal Gear Solid con cámara VR en primera persona y alternar entre Realidad Virtual y Realidad Mixta.
+No PC is required.
 
-> ⚠️ Este proyecto se encuentra actualmente en fase BETA y puede contener errores.
+The project features:
 
----
+- First-person VR camera.
+- Virtual Reality experience.
+- Mixed Reality experience.
+- Switch between VR and MR during gameplay.
+- Standalone gameplay directly on Meta Quest 3.
+- Support for multiple versions and languages of Metal Gear Solid.
 
-# 📥 INSTALACIÓN
-
-## 1. Instalar el APK
-
-Instala MGS VR Standalone en tu Meta Quest 3 mediante SideQuest.
-
-Abre MGS VR, acepta los permisos solicitados y cierra el juego.
-
-Al hacerlo, se crearán automáticamente las carpetas necesarias para instalar los archivos del juego.
+> ⚠️ This project is currently in BETA. Bugs and issues may occur.
 
 ---
 
-## 2. Preparar los archivos del juego
+# 📥 INSTALLATION
 
-Necesitas los archivos correspondientes a:
+## 1. Install MGS VR
 
-- 💿 Disc 1
-- 💿 Disc 2
+Install the MGS VR APK on your Meta Quest 3 using SideQuest or your preferred APK installation method.
 
-Descomprime los dos archivos ZIP.
+Open MGSVR, accept the requested permissions, and then close the game.
 
-Dentro de cada uno encontrarás los archivos:
+This will automatically create the folders required by MGS VR.
 
+---
+
+## 2. Prepare your Metal Gear Solid files
+
+You need your own legally obtained copy of Metal Gear Solid.
+
+The game consists of two discs:
+
+- Disc 1
+- Disc 2
+
+Extract both ZIP files.
+
+Inside each ZIP, you must use the BIN and CUE files.
+
+You need the .bin and .cue files from BOTH Disc 1 and Disc 2.
+
+Do NOT copy the ZIP files directly.
+
+---
+
+# 💿 COMPATIBLE ROMS
+
+Use the version that corresponds to your language/region.
+
+## 🇪🇸 SPAIN
+
+Use the BIN and CUE files from:
+
+Metal Gear Solid (Spain) — Disc 1
+
+Metal Gear Solid (Spain) — Disc 2
+
+Place the .bin and .cue files from both discs inside the Spanish folder created by MGSVR.
+
+---
+
+## 🇺🇸 ENGLISH / USA
+
+Use the BIN and CUE files from:
+
+Metal Gear Solid (USA) — Disc 1
+
+Metal Gear Solid (USA) — Disc 2
+
+Place the .bin and .cue files from both discs inside the English/USA folder created by MGSVR.
+
+---
+
+## 🇫🇷 FRANCE
+
+Use:
+
+Metal Gear Solid (France) (Disc 1).bin
+
+Metal Gear Solid (France) (Disc 1).cue
+
+Metal Gear Solid (France) (Disc 2).bin
+
+Metal Gear Solid (France) (Disc 2).cue
+
+Place all four files inside the corresponding French folder created by MGSVR.
+
+---
+
+## 🇩🇪 GERMANY
+
+Use:
+
+Metal Gear Solid (Germany).bin
+
+Metal Gear Solid (Germany).cue
+
+Metal Gear Solid (Germany) (Disc 2).bin
+
+Metal Gear Solid (Germany) (Disc 2).cue
+
+Place all four files inside the corresponding German folder created by MGSVR.
+
+---
+
+## 🇮🇹 ITALY
+
+Use:
+
+Metal Gear Solid (Italy).bin
+
+Metal Gear Solid (Italy).cue
+
+Metal Gear Solid (Italy) (Disc 2).bin
+
+Metal Gear Solid (Italy) (Disc 2).cue
+
+Place all four files inside the corresponding Italian folder created by MGSVR.
+
+---
+
+## 🇯🇵 JAPAN / ASIA
+
+Use the Japan / Asia version of Metal Gear Solid.
+
+You need the BIN and CUE files from:
+
+Disc 1
+
+and
+
+Disc 2
+
+Place the .bin and .cue files from both discs inside the corresponding Japanese/Asia folder created by MGSVR.
+
+---
+
+# 📂 IMPORTANT
+
+For every supported version, you must use:
+
+Disc 1
 - .bin
 - .cue
 
-Debes utilizar los archivos BIN y CUE de los dos discos.
+Disc 2
+- .bin
+- .cue
+
+Both discs are required.
+
+The files must be extracted from their ZIP archives before being copied to the corresponding MGSVR folder.
 
 ---
 
-## 3. Seleccionar el idioma
+# 🎮 QUEST 3 CONTROLS
 
-Dentro de la carpeta creada por MGS VR encontrarás diferentes carpetas para cada versión del juego:
+## LEFT CONTROLLER
 
-🇪🇸 España  
-🇺🇸 USA  
-🇫🇷 Francia  
-🇩🇪 Alemania  
-🇮🇹 Italia  
-🇯🇵 Japan Asia Premium Package
+Joystick — Move
 
-Selecciona la carpeta correspondiente a tu versión del juego.
+Joystick Click — Radio / Codec
 
----
+Trigger — Inventory
 
-## 4. Copiar Disc 1 y Disc 2
+Grip — Show / Hide Inventory
 
-Copia directamente dentro de la carpeta del idioma seleccionado:
+X — Switch to Mixed Reality
 
-📀 Los archivos .bin y .cue de Disc 1
+Y — Reserved for a future function
 
-📀 Los archivos .bin y .cue de Disc 2
-
-No copies los archivos ZIP.
-
-Los dos discos deben estar descomprimidos y sus archivos BIN/CUE deben encontrarse directamente dentro de la carpeta correspondiente al idioma.
+Menu Button (☰) — Pause
 
 ---
 
-# 🌍 VERSIONES COMPATIBLES
+## RIGHT CONTROLLER
 
-🇺🇸 English PAL — SLES-01370
+Joystick Down — Punch
 
-🇪🇸 Spanish PAL — SLES-01734
+Joystick Click — Recenter Camera
 
-🇫🇷 French PAL — SLES-01506
-
-🇩🇪 German PAL — SLES-01507
-
-🇮🇹 Italian PAL — SLES-01508
-
-🇯🇵 Japanese — Japan Asia Premium Package
+Meta / Oculus Button — Exit to Meta Quest
 
 ---
 
-# ⚠️ IMPORTANTE
+# ⚠️ BETA STATUS
 
-Las ROMs de Metal Gear Solid NO están incluidas en este proyecto.
+This is the first BETA version of the project.
 
-Debes utilizar archivos obtenidos legalmente de tu propia copia del juego.
+The game is playable, but some bugs and issues are still present.
 
----
-
-# 🛠️ ESTADO DEL PROYECTO
-
-Esta es una versión BETA.
-
-El proyecto continúa en desarrollo y pueden existir errores o funciones que todavía necesiten mejoras.
-
-Las futuras versiones irán solucionando problemas y añadiendo mejoras.
+Development will continue, with future versions focused on fixing problems, improving the VR experience and adding new features.
 
 ---
 
-## 📡 CODEC
+# ⚖️ DISCLAIMER
 
-> Campbell:  
-> Todo está listo, Snake. A partir de aquí estás solo.  
-> Buena suerte... y que comience la misión.
+Metal Gear Solid VR Standalone does NOT include Metal Gear Solid ROMs or copyrighted game files.
+
+Users must provide their own legally obtained game files.
+
+This is a free, unofficial, fan-made project and is not affiliated with or endorsed by Konami.
+
+---
+
+# 👤 PROJECT
+
+Created by BayWilly.
+
+Made for the VR community and released completely free.
+
+---
+
+# 📡 CODEC
+
+> Campbell: Everything is ready, Snake. From here on, you're on your own.
+>
+> Good luck... and let the mission begin.
