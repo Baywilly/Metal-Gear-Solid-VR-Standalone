@@ -1,4 +1,5 @@
 # 🐍 METAL GEAR SOLID VR STANDALONE — v0.1 BETA
+<img width="1280" height="720" alt="5832319396607627732_121" src="https://github.com/user-attachments/assets/eefaa283-aa52-4ecc-a914-ded532e2f703" />
 
 Metal Gear Solid VR Standalone is a free fan-made project created to experience the classic Metal Gear Solid in virtual reality directly on Meta Quest 3, completely Standalone with no PC required.
 
@@ -145,37 +146,38 @@ The images included with this Release show the complete control layout in:
 
 ## 🇪🇸 Spanish
 
-**[INSERT SPANISH CONTROLS IMAGE HERE]**
+<img width="1672" height="941" alt="5854816847620936628_119" src="https://github.com/user-attachments/assets/03765689-f40f-408a-bc48-c7289fce102d" />
 
 ---
 
 ## 🇬🇧 English
 
-**[INSERT ENGLISH CONTROLS IMAGE HERE]**
+<img width="1672" height="941" alt="5854816847620936625_119" src="https://github.com/user-attachments/assets/d9348c56-9595-4517-be96-c6801802a84c" />
+
 
 ---
 
 ## 🇫🇷 French
 
-**[INSERT FRENCH CONTROLS IMAGE HERE]**
+<img width="1672" height="941" alt="5854816847620936626_119" src="https://github.com/user-attachments/assets/ff4a168f-bf17-4963-8be7-f6b6b0e17cce" />
 
 ---
 
 ## 🇩🇪 German
 
-**[INSERT GERMAN CONTROLS IMAGE HERE]**
+<img width="1672" height="941" alt="5854816847620936627_119" src="https://github.com/user-attachments/assets/fbf40e5d-35a2-404b-8b5b-bce845187b7b" />
 
 ---
 
 ## 🇮🇹 Italian
 
-**[INSERT ITALIAN CONTROLS IMAGE HERE]**
+<img width="1670" height="941" alt="5854816847620936629_119" src="https://github.com/user-attachments/assets/9560cb0c-7daf-487a-b8f1-b637d20eb3e6" />
 
 ---
 
 ## 🇯🇵 Japanese
 
-**[INSERT JAPANESE CONTROLS IMAGE HERE]**
+<img width="1672" height="941" alt="5854816847620936630_119" src="https://github.com/user-attachments/assets/09eef001-8599-498e-9f9d-f12c7f736dc2" />
 
 ---
 
